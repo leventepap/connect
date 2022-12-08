@@ -20,6 +20,7 @@ You can visit the following subpages:
 http://localhost:3000/login => Login Page
 
 http://localhost:3000/signup => Signup Page
+
 http://localhost:3000/confirm => Signup Page 2
 http://localhost:3000/verify => Signup Page 3
 
