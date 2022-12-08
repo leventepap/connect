@@ -25,7 +25,7 @@ http://localhost:3000/confirm => Signup Page 2
 
 http://localhost:3000/verify => Signup Page 3
 
-http://localhost:3000/main => Main page (Feed / Find Friends / Notifications / Logout)
+http://localhost:3000/main => Main page (Feed / Find Friends / Notifications / Logout / Modal for pictured posts)
 
 http://localhost:3000/profile/:userID => Profile pages (replace ':userID' with a number between 1-7 or by clicking on any avatar pictures on the main page)
 
